@@ -952,7 +952,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 exports.LeviatanScans = exports.LeviatanScansInfo = void 0;
 const paperback_extensions_common_1 = require("paperback-extensions-common");
 const Madara_1 = require("../Madara");
-const DOMAIN = 'https://leviatanscans.com';
+const DOMAIN = 'https://leviatanscans.com/hy';
 exports.LeviatanScansInfo = {
     version: Madara_1.getExportVersion('0.0.2'),
     name: 'LeviatanScans',
